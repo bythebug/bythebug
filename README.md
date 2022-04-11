@@ -1,10 +1,7 @@
 # 💫About Me :
-I am currently working on Android Development
-I'm looking to collaborate on a project.
-I'm looking for help with 
-I'm currently reading Atomic Habits
-Ask me about anything.
-Fun Fact - I am from Assam but not Assamese.
+\\I am currently working on Android Development
+\\I'm currently reading Atomic Habits
+\\Fun Fact - I am from Assam but not Assamese.
 
 
 ## 🌐Socials
