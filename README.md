@@ -1,8 +1,5 @@
 # 💫About Me :
-\\I am currently working on Android Development
-\\I'm currently reading Atomic Habits
-\\Fun Fact - I am from Assam but not Assamese.
-
+I’m a computer science student at Vel Tech University. I'm interested in the intersection of technology and social good, more specifically leveraging technology to uplift marginalized voices. In my free time, you can find me making new playlists on Spotify or planning on Notion.
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/doresjae) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bythebug) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bythebug) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bythebug) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bythebugtweets) 
