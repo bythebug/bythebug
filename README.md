@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi, I am Suraj, My interest lies in building complex systems while leveraging the power of computing. I feel like with computing we can build our own world and delegate our work and be free. I always try to find a way to improve my ability to use computers and its power to the fullest. My interest involves around Blockchain, Web and Research.
+Hi, I am Suraj, My interest lies in building complex systems while leveraging the power of computing. I feel like with computing we can build our own world and delegate our work and be free. I always try to find a way to improve my ability to use computers and its power to the fullest. My interest involves Blockchain, Web and Research.
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/doresjae) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bythebug) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bythebug) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bythebug) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bythebugtweets) 
