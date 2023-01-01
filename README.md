@@ -1,6 +1,6 @@
 # 💫About Me :
 
-Hey there! My name is Suraj Van Verma, but you can call me the "Code Whisperer." I'm currently a B. Tech student studying Computer Science at Vel Tech University in Chennai, India, where I spend most of my days decoding and debugging code. 
+Hey there! My name is Suraj, but you can call me the "Code Whisperer." I'm currently a B. Tech student studying Computer Science at Vel Tech University in Chennai, India, where I spend most of my days decoding and debugging code. 
 
 In my spare time, I like to create and design things that are both functional and visually appealing. You know, because I'm not just a nerd - I'm a stylish nerd. I've had the opportunity to work on some pretty cool projects, like a web-based chatbot editing environment and a cloud-based code snippet application. 
 
