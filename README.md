@@ -1,9 +1,12 @@
 # 💫About Me :
-I am computer science student with leadership skills and a dedication to community work and a highly motivated engaged individual. having a strong understanding of computer science principles and able to apply this knowledge to real-world problems. 
 
-In addition to technical abilities, I have exceptional leadership skills and a passion for making a positive impact in community. Involved in a variety of community projects and organizations, using my skills and knowledge to help others and make a difference. 
+Hey there! My name is Suraj Van Verma, but you can call me the "Code Whisperer." I'm currently a B. Tech student studying Computer Science at Vel Tech University in Chennai, India, where I spend most of my days decoding and debugging code. 
 
-Overall, A valuable asset to team or organization, and will no doubt continue to thrive and make a meaningful impact in my field.
+In my spare time, I like to create and design things that are both functional and visually appealing. You know, because I'm not just a nerd - I'm a stylish nerd. I've had the opportunity to work on some pretty cool projects, like a web-based chatbot editing environment and a cloud-based code snippet application. 
+
+In my previous internships at MITACS and Turquoise, I've learned a ton and contributed to the development of various products. I'm also a Lead at the Google Developers Students Club, India, where I organize hackathons and coding competitions and lead a team of 18 students to greatness (or at least, to getting our work done). 
+
+When I'm not coding or designing, you can find me freelancing as a UI-UX designer or trying to come up with a new and improved version of the potato. Just kidding, there's no improving the potato. It's perfect just the way it is.
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/doresjae) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bythebug_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bythebug) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bythebug_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bythebugtweets) 
