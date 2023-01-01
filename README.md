@@ -8,9 +8,9 @@ In my previous internships at MITACS and Turquoise, I've learned a ton and contr
 
 When I'm not coding or designing, you can find me freelancing as a UI-UX designer or trying to come up with a new and improved version of the potato. Just kidding, there's no improving the potato. It's perfect just the way it is.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bythebug) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/doresjae) 
+
+Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bythebug) 
+
 
 
 # 💻Tech Stack:
