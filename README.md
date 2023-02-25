@@ -10,7 +10,7 @@ When I'm not coding or designing, you can find me freelancing as a UI-UX designe
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bythebug) 
-[![Website](https://img.shields.io/badge/Notion-%230077B5.svg?logo=linkedin&logoColor=white)](https://bythebug.notion.site) 
+[![Website](https://img.shields.io/badge/Notion-%230077B5.svg?logo=notion&logoColor=white)](https://bythebug.notion.site) 
 
 
 
