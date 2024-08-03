@@ -1,1 +1,1 @@
-currently in Zen mode.
+commiting everyday.
