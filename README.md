@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Suraj
 
 🎯 *Software Engineer | Backend & Full-Stack Developer | ML Enthusiast*  
-📍 Based in Montreal | 💬 Open to new grad and internship opportunities
+📍 Based in Montreal | 💬 Open to SDE/ML/Product opportunities
 
 ## 🧠 About Me
 
