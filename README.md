@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suraj
 
-🎯 *Software Engineer | Backend & ML Developer
+🎯 Software Engineer | Backend & ML Developer
 📍 Based in Montreal | 💬 Open to SDE/ML/Product opportunities
 
 ## 🧠 About Me
