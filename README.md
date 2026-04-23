@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Suraj
 
-🎯 *Software Engineer | Backend & Full-Stack Developer | ML Enthusiast*  
+🎯 *Software Engineer | Backend & ML Developer
 📍 Based in Montreal | 💬 Open to SDE/ML/Product opportunities
 
 ## 🧠 About Me
 
-I'm a CS Master's student at **McGill University**, passionate about building scalable backend systems, secure full-stack apps, and applying machine learning in real-world projects.
+I'm a CS Master's graduate from **McGill University**, passionate about building scalable backend systems, secure full-stack apps, and applying machine learning in real-world projects.
 
 With hands-on experience from startups and research labs, I enjoy solving tough problems, writing clean code, and learning new technologies.
 
