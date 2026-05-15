@@ -16,7 +16,7 @@ McGill MS CS · Montreal · Open to remote roles in Canada.
 
 </div>
 
----
+<br/>
 
 ## What I build
 
@@ -30,7 +30,8 @@ suraj = {
 }
 ```
 
----
+
+<br/>
 
 ## Tech
 
@@ -63,7 +64,8 @@ suraj = {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
----
+
+<br/>
 
 ## Projects
 
@@ -75,7 +77,8 @@ suraj = {
 | 🤖 | [**resumo**](https://github.com/bythebug/resumo-Tailor-Latex-Resume-for-JD) | AI-powered LaTeX resume tailor — paste a JD, get a tailored resume |
 | 📚 | [**gradual-dsa**](https://github.com/bythebug/gradual-dsa) | 426 LeetCode problems sequenced by learning curve, not difficulty label |
 
----
+
+<br/>
 
 ## Stats
 
@@ -94,7 +97,7 @@ suraj = {
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
