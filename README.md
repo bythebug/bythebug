@@ -67,19 +67,6 @@ suraj = {
 
 <br/>
 
-## Projects
-
-| | Project | What it does |
-|---|---|---|
-| 🧠 | [**context-os**](https://github.com/bythebug/context-os) | Model-agnostic memory layer for LLM apps — BM25 + pgvector + RRF hybrid search |
-| ⚡ | [**urltrim**](https://github.com/bythebug/urltrim) | URL shortener at ~3,000 req/s — FastAPI + PostgreSQL + Redis + RabbitMQ |
-| 📊 | [**lld-viz**](https://github.com/bythebug/lld-viz) | Live Python-to-UML class diagram visualizer for LLD interview prep |
-| 🤖 | [**resumo**](https://github.com/bythebug/resumo-Tailor-Latex-Resume-for-JD) | AI-powered LaTeX resume tailor — paste a JD, get a tailored resume |
-| 📚 | [**gradual-dsa**](https://github.com/bythebug/gradual-dsa) | 426 LeetCode problems sequenced by learning curve, not difficulty label |
-
-
-<br/>
-
 <div align="center">
 
 *Backend engineer who ships fast and explains clearly — let's build something.*  
