@@ -80,25 +80,6 @@ suraj = {
 
 <br/>
 
-## Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bythebug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bythebug&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bythebug&theme=tokyonight&hide_border=true)](https://github.com/bythebug)
-
-<br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bythebug?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/bythebug)
-
-</div>
-
-<br/>
-
 <div align="center">
 
 *Backend engineer who ships fast and explains clearly — let's build something.*  
