@@ -1,9 +1,9 @@
-# Suraj Verma
+Building AI applications, distributed systems, and developer tools.
 
-Backend Engineer | M.S. Computer Science @ McGill University
+Python · Java · TypeScript · AWS · PostgreSQL · Redis · Kafka · Docker · Kubernetes · LLMs · RAG
 
-Python • Java • AWS • FastAPI • PostgreSQL • Redis • Kafka • Docker • LLMs • RAG
+M.S. Computer Science @ McGill University
 
-📍 Montreal, Canada
-📫 [vermasurajvan@gmail.com](mailto:vermasurajvan@gmail.com)
-🔗 linkedin.com/in/bythebug
+Montreal, Canada
+
+linkedin.com/in/bythebug
