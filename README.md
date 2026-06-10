@@ -1,29 +1,33 @@
-<div align="center">
+# Suraj Verma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E56CF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Suraj+%F0%9F%91%8B;Backend+Engineer;Distributed+Systems+%C2%B7+AWS+%C2%B7+AI" />
+Backend Engineer | M.S. Computer Science @ McGill University
 
-### Backend Engineer building scalable systems and AI applications
+Building scalable backend systems, cloud infrastructure, and AI applications.
 
-**MS Computer Science @ McGill University 🇨🇦**
+📍 Montreal, Canada
+📫 [vermasurajvan@gmail.com](mailto:vermasurajvan@gmail.com)
+🔗 linkedin.com/in/bythebug
+🌐 bythebug.github.io
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-28K%2B_Followers-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/bythebug)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6E56CF?style=for-the-badge)](https://bythebug.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vermasurajvan@gmail.com)
+## Tech Stack
 
-</div>
+**Languages**
+Python · Java · TypeScript · SQL
 
-```python
-suraj = {
-    "focus": ["backend", "distributed systems", "AI infrastructure"],
-    "stack": ["Python", "FastAPI", "AWS", "PostgreSQL", "Redis", "Kafka"],
-    "education": "MS CS @ McGill",
-    "creator": "28K+ LinkedIn followers",
-    "location": "Montreal, Canada"
-}
-```
+**Backend & APIs**
+FastAPI · Spring Boot · REST APIs · Microservices
 
-**Tech:** Python • FastAPI • AWS • PostgreSQL • Redis • Kafka • Docker • Linux • LangChain
+**Cloud & Infrastructure**
+AWS · Docker · Kubernetes · Linux · Terraform
 
-**Currently:** Building AI-powered systems and scalable backend services.
+**Databases & Messaging**
+PostgreSQL · Redis · MongoDB · Kafka · RabbitMQ
 
-📫 **[vermasurajvan@gmail.com](mailto:vermasurajvan@gmail.com)**
+**AI Engineering**
+LangChain · RAG · Vector Databases · LLM Applications · PyTorch
+
+## Currently
+
+* Building AI-powered products and backend platforms
+* Designing distributed systems and event-driven architectures
+* Sharing engineering insights with 28K+ developers on LinkedIn
