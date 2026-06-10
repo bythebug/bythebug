@@ -9,8 +9,12 @@ I build backend systems and AI/LLM tooling — APIs, data pipelines, and the inf
 ### Core stack
 
 **Backend:** Python, Java, Go · FastAPI, Spring Boot, Flask
+
 **Infra:** Redis, RabbitMQ, Kafka, Docker, PostgreSQL
+
 **AI/ML:** LangChain, RAG pipelines, PyTorch
+
 **Cloud:** AWS (ML Engineer – Associate certified)
+
 
 📫 Open to backend roles. Best way to reach me: [LinkedIn](https://linkedin.com/in/bythebug)
