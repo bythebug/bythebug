@@ -1,3 +1,3 @@
-I like to code, I understand how to build scalable products. 
+I like building things. Mostly AI products, developer tools, and systems that need to scale.
 
 reach: suraj.verma@mail.mcgill.ca 
